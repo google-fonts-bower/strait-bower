@@ -1,0 +1,17 @@
+{
+    "name": "strait-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/strait-bower.git"
+    },
+    "description": "Strait font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
